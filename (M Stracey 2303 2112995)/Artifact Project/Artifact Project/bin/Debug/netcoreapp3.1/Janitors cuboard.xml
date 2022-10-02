@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Janitors cuboard</roomName>
+  <description>not much here, just the janitor's cleaning tools</description>
+  <contentslister>
+    <contentsList />
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>West window</roomName>
+  <description>the west window seems like its in poor condition, cracked and smashed. Any force and it would surely break, flooding the entire base.</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects>
+        <name>Cafeteria_emergancy_door</name>
+        <description>the door has been lifted and is no longer in the way</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

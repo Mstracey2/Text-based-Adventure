@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Inventory xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <inventoryList>
+    <RoomObjects xsi:type="OilCanObject">
+      <name>Oil_can</name>
+      <description>the oil can is very rusted and clearly has not been used in ages. you can just make out that the original colour of the can was red.</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+    <RoomObjects xsi:type="ValveObject">
+      <name>Valve</name>
+      <description>a bright red valve</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+    <RoomObjects xsi:type="LadderObject">
+      <name>Ladder</name>
+      <description>a step ladder, useful!</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+    <RoomObjects xsi:type="StorageKeysObject">
+      <name>Storage_keys</name>
+      <description>Storage keys, tag hangs from them saying 'storage'</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+    <RoomObjects xsi:type="SawObject">
+      <name>Saw</name>
+      <description>a saw from the engineer, pointy!</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+    <RoomObjects xsi:type="BroomObject">
+      <name>High-handled_broom</name>
+      <description>a wooden broom, has a high handle</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+    <RoomObjects xsi:type="GenBeltObject">
+      <name>Generator_belt</name>
+      <description>an elastic generator belt, a spare part for the generators.</description>
+      <is_pickable>true</is_pickable>
+      <is_Hidden>false</is_Hidden>
+    </RoomObjects>
+  </inventoryList>
+</Inventory>

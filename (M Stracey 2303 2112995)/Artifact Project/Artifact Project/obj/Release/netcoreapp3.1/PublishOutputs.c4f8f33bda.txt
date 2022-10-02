@@ -1,0 +1,5 @@
+C:\Users\matts\Desktop\Artifact_Project.exe
+C:\Users\matts\Desktop\Artifact_Project.dll
+C:\Users\matts\Desktop\Artifact_Project.deps.json
+C:\Users\matts\Desktop\Artifact_Project.runtimeconfig.json
+C:\Users\matts\Desktop\Artifact_Project.pdb

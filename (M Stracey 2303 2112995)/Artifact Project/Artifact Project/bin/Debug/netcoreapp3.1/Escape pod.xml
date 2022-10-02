@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Escape pod</roomName>
+  <description>the escape pod, from the outside it looks more like a submarine. It's only used for the most dire situations.</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects xsi:type="ButtonObject">
+        <name>Launch_pod_button</name>
+        <description>the launch button, pressing this will launch the pod to the surface.</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Control Room</roomName>
+  <description>the control room is alive with blinking lights and monitors that cover every wall, desks with little knickknacks are laid in a orderd fashion.</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects>
+        <name>Security_guard_corpse</name>
+        <description>the security guard, said to keep us safe and yet he is in his own pool of blood</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+      <RoomObjects xsi:type="CentralComputerObject">
+        <name>Central_computer</name>
+        <description>the central computer is finally back online.</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+      <RoomObjects>
+        <name>Cafeteria_emergancy_door</name>
+        <description>the door has been lifted and is no longer in the way</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

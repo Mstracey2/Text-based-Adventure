@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Storage</roomName>
+  <description>the storage room is filled with shelves, this is where they keep all the spare parts</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects xsi:type="ShelfObject">
+        <name>Shelves</name>
+        <description>storage shelves, holds all sorts of spare parts</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

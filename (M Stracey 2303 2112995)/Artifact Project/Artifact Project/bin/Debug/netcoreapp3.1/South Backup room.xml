@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>South Backup room</roomName>
+  <description>an empty room with a generator</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects>
+        <name>South_generator</name>
+        <description>the generator is active</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

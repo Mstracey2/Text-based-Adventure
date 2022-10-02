@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Fork Hall</roomName>
+  <description>the fork hall is in bad shape, sea water was leaking from the roof of the base. whatever happened here was devastating to the integraty.</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects xsi:type="TableObject">
+        <name>Table</name>
+        <description>a table with some draws</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+      <RoomObjects>
+        <name>Team_picture</name>
+        <description>a picture of the sector C team, you all looked so happy then.</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

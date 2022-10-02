@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Observation deck</roomName>
+  <description>the observation deck is a massive glass dome, deep blue ocean surrounding the place. In the centre, seems to be some kind of sptic tank with and underdeveloped creature.</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects>
+        <name>Research_terminal</name>
+        <description>the research terminal, all the information we have on these creatures</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

@@ -1,0 +1,14 @@
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.exe
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.deps.json
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.runtimeconfig.json
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.runtimeconfig.dev.json
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.dll
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.pdb
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.csproj.AssemblyReference.cache
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.AssemblyInfoInputs.cache
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.AssemblyInfo.cs
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.csproj.CoreCompileInputs.cache
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.dll
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.pdb
+E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\obj\Debug\netcoreapp3.1\Artifact_Project.genruntimeconfig.cache

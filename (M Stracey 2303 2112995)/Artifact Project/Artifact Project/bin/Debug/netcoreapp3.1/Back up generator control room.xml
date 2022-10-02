@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Room xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <roomName>Back up generator control room</roomName>
+  <description>this room is possibly the most unkept of all the rooms, nobody really moniters the backup generators too much.</description>
+  <contentslister>
+    <contentsList>
+      <RoomObjects xsi:type="EngineerObject">
+        <name>Engineers_corpse</name>
+        <description>the sea base's engineer, poor guy seamed like he got torn up badly.</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+      <RoomObjects>
+        <name>Storage_door</name>
+        <description>the door is open</description>
+        <is_pickable>false</is_pickable>
+        <is_Hidden>false</is_Hidden>
+      </RoomObjects>
+    </contentsList>
+  </contentslister>
+  <northVisible>true</northVisible>
+  <southVisible>true</southVisible>
+  <eastVisible>true</eastVisible>
+  <westVisible>true</westVisible>
+</Room>

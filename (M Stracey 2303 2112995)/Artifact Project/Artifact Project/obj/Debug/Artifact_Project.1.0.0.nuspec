@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Artifact_Project</id>
+    <version>1.0.0</version>
+    <authors>Artifact_Project</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.runtimeconfig.json" target="lib\netcoreapp3.1\Artifact_Project.runtimeconfig.json" />
+    <file src="E:\Uni Work\current goahend\Artifact Project (M Stracey 2303 2112995)\Artifact Project\Artifact Project\bin\Debug\netcoreapp3.1\Artifact_Project.dll" target="lib\netcoreapp3.1\Artifact_Project.dll" />
+  </files>
+</package>
